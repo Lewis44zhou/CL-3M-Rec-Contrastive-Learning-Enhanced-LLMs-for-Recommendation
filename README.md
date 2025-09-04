@@ -7,4 +7,13 @@ Due to GitHub’s file size limits, large files (e.g., datasets, pre-trained mod
 
 👉 [Google Drive Folder](https://drive.google.com/drive/folders/1dfe2gw2L1ltcK0ogbGejtueFGDJG24cO?dmr=1&ec=wgc-drive-hero-goto)
 
-Please download the files and follow this guideline to run the code.
+Please download the files and follow this guideline to run the code。
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/YourUsername/CL3M-Rec.git
+cd CL3M-Rec
+
