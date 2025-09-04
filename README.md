@@ -12,8 +12,11 @@ Please download the files and follow this guideline to run the code。
 
 ## ⚙️ Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/YourUsername/CL3M-Rec.git
-cd CL3M-Rec
+### 1. Download the file.
+Download form Google Drive, the links has shown above.
+
+### 2. Set up the environment
+conda env create -f environment.yml
+conda activate cl3mrec
+
 
