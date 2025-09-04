@@ -12,11 +12,13 @@ Please download the files and follow this guideline to run the code。
 
 ## ⚙️ Getting Started
 
-### 1. Download the file.
-Download form Google Drive, the links has shown above.
+### 1. Download the files
+Download from Google Drive (link provided above).
 
 ### 2. Set up the environment
+```bash
 conda env create -f environment.yml
 conda activate cl3mrec
+
 
 
